@@ -98,7 +98,7 @@ nav a:hover{
     text-align: center;
     padding: 10px 0;
 }
-#gallery{
+#galeria{
     padding: 70px 0 120px;
     background-color: #ffafaf;	
 }
@@ -163,13 +163,6 @@ nav a:hover{
     margin: 10px 0;
 }
 
-.descripcion{
-	font-size: 17px;
-    font-weight: 300;
-    color: #fff;
-    text-align: center;
-    padding: 10px 0;
-}
 .movie{
 	text-align: center;
 	margin: 10px 0;
